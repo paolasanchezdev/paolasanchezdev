@@ -41,9 +41,9 @@ Actualmente, estoy fortaleciendo mis habilidades en:
 ## 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=paolasanchezdev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paolasanchezdev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
