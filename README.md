@@ -24,37 +24,16 @@
 
 
 ```bash
-┌──(paola㉿github)-[~/profile]
-└─$ whoami
-Karla Paola Sánchez Rodríguez
+┌──(paola㉿github)-[~]
+└─$ ./load_profile
 
-┌──(paola㉿github)-[~/profile]
-└─$ cat about.txt
-💻 Software Development Student
-🔐 Cybersecurity Enthusiast
-🤖 AI & Data Analysis Learner
-🇸🇻 San Salvador, El Salvador
+Loading ██████████ 100%
 
-┌──(paola㉿github)-[~/profile]
-└─$ python skills.py
+> Identity: Karla Paola Sánchez Rodríguez
+> Status: Online 💜
 
-skills = {
-    "languages": ["Python", "JavaScript", "HTML", "CSS", "PHP"],
-    "interests": [
-        "Cybersecurity",
-        "Artificial Intelligence",
-        "Data Analysis",
-        "Web Development"
-    ],
-    "tools": [
-        "Git",
-        "GitHub",
-        "VS Code",
-        "Linux"
-    ]
-}
-
-print("Welcome to my GitHub profile 💜")
+┌──(paola㉿github)-[~]
+└─$ _
 ```
 
 ---
